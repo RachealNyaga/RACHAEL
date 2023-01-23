@@ -1,15 +1,14 @@
 body{
     background-color:hsl(212, 45%, 89%) ;
-    width: 1440px;
+    width: 1400px;
     font-size: 15px;
-    align-items: center;
+
 }
 .container{
     margin: 20% 40%;
     padding: 10px 10px;
     display: flex;flex-direction: column;
     border: 30px;
-    justify-content: center;
     border-radius: 20px;
     background-color:hsl(0, 0%, 100%) ;
 }
